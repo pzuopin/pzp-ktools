@@ -2,7 +2,8 @@
   "name": "pzp-ktools",
   "version": "1.0.0",
   "description": "前端工具库",
-  "main": "index.js",
+  "main": "dist/pzp-ktools.cjs.js",
+  "module": "dist/pzp-ktools.esm.js",
   "browser": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

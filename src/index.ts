@@ -1,1 +1,5 @@
-console.log('hello ktools!');
+import isColor from './is-color';
+
+export {
+  isColor,
+};
